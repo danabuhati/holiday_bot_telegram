@@ -163,6 +163,7 @@
         [
             {"day": "-----December-----", "name": "--this is a comment--"},
             {"day": "1", "name": "World AIDS Day"},
+            {"day": "4", "name": "World Sock Day"},
             {"day": "5", "name": "World Soil Day"},
             {"day": "10", "name": "Human Rights Day"},
             {"day": "14", "name": "World Monkey Day"},
